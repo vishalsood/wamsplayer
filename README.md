@@ -1,4 +1,4 @@
 wamsplayer
 ==========
 
-WAMS Player page for demos
+This repository has been moved.  Please contact ampinfo@microsoft.com for more details.
